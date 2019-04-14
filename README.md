@@ -4,4 +4,4 @@
 
 ## Link
 
-This is the ling provided by heroku : ***https://mycursedapp.herokuapp.com/ ***
+This is the link provided by heroku : ***https://mycursedapp.herokuapp.com/ ***
